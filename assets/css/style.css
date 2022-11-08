@@ -1328,3 +1328,6 @@ img.classmateImage {
 .section-title h2.classmates p{
   color: #adb5bd;
 }
+img.img-fluid {
+  border-radius: 1.5%;
+}
