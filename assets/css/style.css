@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: black;
 }
 
 a {
@@ -1310,8 +1310,8 @@ section {
 }
 
 /* custom css */
-img.classmateImage {
-  border-radius: 100%;
+img.classmateImage.img-fluid {
+  border-radius: 50% !important;
   width:130%;
   max-width: 150%;
   margin-bottom:20px;
@@ -1322,7 +1322,7 @@ img.classmateImage {
 .mt-4 .icon-box {
   background-color: #34b7a7;
 }
-.section-title h2.classmates {
+.section-title h2.greenTitles {
   color: #34b7a7;
 }
 .section-title h2.classmates p{
