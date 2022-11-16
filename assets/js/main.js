@@ -243,4 +243,7 @@
    */
   new PureCounter();
 
+  const player = new Plyr('#player');
+
 })()
+
