@@ -1307,7 +1307,7 @@ section {
 }
 
 #footer .credits a {
-  color: #34b7a7;
+  color: #209cfbbb;
 }
 
 /* custom css */
@@ -1334,8 +1334,8 @@ img.classmateImage.img-fluid {
 img.img-fluid {
   border-radius: 1.5%;
 }
-.bg-dark.text-light {
-  Background-color:rgba(0, 0, 0, 0.90) !important;
+.bg-dark.text-light.footer-color{
+  background-color:rgba(0, 0, 0, 0.90) !important;
 }
 h1{
   color: orange !important;
@@ -1366,13 +1366,19 @@ h5{
   border-left:2px solid rgba(232, 153, 6, 0.765) !important;
 }
 .btn-about{
-  color: whitesmoke !important;
-  background:rgb(249, 164, 6) !important;
+  color: #209cfbbb !important;
+  background:rgba(232, 153, 6, 0.10) !important;
   font-weight: 400 !important;
 }
 #portfolio-flters li:hover,
 #portfolio-flters li.filter-active {
   color: #209cfbbb !important;
-  background: rgba(232, 153, 6, 0.765) !important;
+  background: rgba(232, 153, 6, 0.10) !important;
+}
+.section-title p span{
+    color: rgba(232, 153, 6, 0.765) !important;
+}
+.back-to-top {
+  background: #209cfbbb !important;
 }
 /* Add spans to pipes and make them green */
