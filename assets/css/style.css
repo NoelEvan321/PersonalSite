@@ -165,7 +165,7 @@ h6 {
 }
 
 .header-social-links a {
-  color: #6f6f6f;
+  color: rgba(232, 153, 6, 0.765);
   padding-left: 6px;
   display: inline-block;
   line-height: 0px;
@@ -174,7 +174,7 @@ h6 {
 }
 
 .header-social-links a:hover {
-  color: #34b7a7;
+  color: #47aeff;
 }
 
 /*--------------------------------------------------------------
@@ -228,7 +228,7 @@ h6 {
   height: 2px;
   bottom: -5px;
   left: 0;
-  background-color: #34b7a7;
+  background-color: #47aeff;
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
