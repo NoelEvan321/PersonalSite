@@ -1381,4 +1381,7 @@ h5{
 .back-to-top {
   background: #209cfbbb !important;
 }
+#header .logo a:hover {
+  color: #209cfbbb;
+}
 /* Add spans to pipes and make them green */
