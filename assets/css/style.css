@@ -127,7 +127,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #e9e8e6;
+  background: black;
   box-shadow: 0px 0px 25px 0 rgba(0, 0, 0, 0.08);
   z-index: 997;
   padding: 15px 0;
@@ -144,7 +144,7 @@ h6 {
 }
 
 #header .logo a {
-  color: #222222;
+  color: whitesmoke;
 }
 
 #header .logo img {
@@ -170,7 +170,7 @@ h6 {
   display: inline-block;
   line-height: 0px;
   transition: 0.3s;
-  font-size: 16px;
+  font-size: 25px;
 }
 
 .header-social-links a:hover {
@@ -208,7 +208,7 @@ h6 {
   font-family: "Raleway", sans-serif;
   font-size: 15px;
   font-weight: 600;
-  color: #888888;
+  color: rgba(232, 153, 6, 0.765);
   white-space: nowrap;
   transition: 0.3s;
   position: relative;
@@ -245,7 +245,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #222222;
+  color: #47aeff;
 }
 
 .navbar .dropdown ul {
@@ -283,7 +283,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: rgba(232, 153, 6, 0.765);
 }
 
 .navbar .dropdown:hover>ul {
@@ -383,7 +383,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #34b7a7;
+  color: rgba(232, 153, 6, 0.765);
 }
 
 .navbar-mobile .getstarted,
@@ -399,7 +399,7 @@ h6 {
   z-index: 99;
   opacity: 1;
   visibility: visible;
-  background: #fff;
+  background: black;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
 }
 
