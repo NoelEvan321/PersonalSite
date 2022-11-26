@@ -1331,10 +1331,10 @@ img.classmateImage.img-fluid {
 .section-title h2.classmates p{
   color: #adb5bd;
 }
-img.img-fluid {
+img.headshot {
   border-radius: 50%;
 }
-div.content{
+div.abt-content{
   padding-left: 5%;
 }
 .bg-dark.text-light.footer-color{
