@@ -1384,4 +1384,14 @@ h5{
 #header .logo a:hover {
   color: #209cfbbb;
 }
-/* Add spans to pipes and make them green */
+/* Skills table */
+.container.skills-table {
+  border: 2px solid #444444;
+}
+.container.skills-table div.row.skills-header{
+  margin-top: 2.5%;
+}
+.container.skills-table div.row.skills-bottom p{
+  margin-top: 4.5%;
+  margin-bottom: 4.5%;
+}
