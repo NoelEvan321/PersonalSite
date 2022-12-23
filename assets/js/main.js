@@ -243,7 +243,9 @@
    */
   new PureCounter();
 
-  const player = new Plyr('#player');
+  //Below we activate the Plyr plugin
+    //Note: this code is found on the Github under the JS section
+    const player = new Plyr('#player');
 
 })()
 
